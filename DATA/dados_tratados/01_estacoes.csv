@@ -1,0 +1,18 @@
+ID_MMA_COMPLETO,estacao,nome,municipio,poluente,latitude,longitude,rep_espacial_declarada,unidade
+SC0001RA007,SC0001,Vila Moema,Tubarão,CO,-28.4835778,-49.0002,Bairro,ppm
+SC0001RA001,SC0001,Vila Moema,Tubarão,MP10,-28.4835778,-49.0002,Bairro,µg/m³ (premissa)
+SC0001RA002,SC0001,Vila Moema,Tubarão,MP25,-28.4835778,-49.0002,Bairro,µg/m³ (premissa)
+SC0001RA004,SC0001,Vila Moema,Tubarão,NO2,-28.4835778,-49.0002,Bairro,µg/m³ (premissa)
+SC0001RA005,SC0001,Vila Moema,Tubarão,O3,-28.4835778,-49.0002,Bairro,µg/m³ (premissa)
+SC0001RA008,SC0001,Vila Moema,Tubarão,PTS,-28.4835778,-49.0002,Bairro,µg/m³ (premissa)
+SC0001RA003,SC0001,Vila Moema,Tubarão,SO2,-28.4835778,-49.0002,Bairro,µg/m³ (premissa)
+SC0002RA001,SC0002,Capivari,Capivari de Baixo,MP10,-28.4457167,-48.9588417,Bairro,µg/m³ (premissa)
+SC0002RA004,SC0002,Capivari,Capivari de Baixo,NO2,-28.4457167,-48.9588417,Bairro,µg/m³ (premissa)
+SC0002RA005,SC0002,Capivari,Capivari de Baixo,O3,-28.4457167,-48.9588417,Bairro,µg/m³ (premissa)
+SC0002RA008,SC0002,Capivari,Capivari de Baixo,PTS,-28.4457167,-48.9588417,Bairro,µg/m³ (premissa)
+SC0002RA003,SC0002,Capivari,Capivari de Baixo,SO2,-28.4457167,-48.9588417,Bairro,µg/m³ (premissa)
+SC0003RA001,SC0003,São Bernardo,Tubarão,MP10,-28.44602,-49.0259,Bairro,µg/m³ (premissa)
+SC0003RA004,SC0003,São Bernardo,Tubarão,NO2,-28.44602,-49.0259,Bairro,µg/m³ (premissa)
+SC0003RA005,SC0003,São Bernardo,Tubarão,O3,-28.44602,-49.0259,Bairro,µg/m³ (premissa)
+SC0003RA008,SC0003,São Bernardo,Tubarão,PTS,-28.44602,-49.0259,Bairro,µg/m³ (premissa)
+SC0003RA003,SC0003,São Bernardo,Tubarão,SO2,-28.44602,-49.0259,Bairro,µg/m³ (premissa)
